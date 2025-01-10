@@ -1,0 +1,11 @@
+#ignore specific files
+practice.py
+face_recognition.py
+faces_train.py
+haar_face.xml
+tempCodeRunnerFile.py
+
+# Ignore specific folders
+backup/
+images/
+video/
